@@ -19,7 +19,7 @@ disqus_shortname: #disqus shortname
 
 user:
   name: Jang Mi Ji
-  pic: /assets/img/cat.jpg
+  pic: /assets/img/FR.jpg
   picAlt: "catbook"
   job: postgrad
   aboutme: true # comment this out if you don't need the 'about' page.
