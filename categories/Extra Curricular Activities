@@ -1,0 +1,6 @@
+---
+layout: page
+type: Extra Curricular Activities
+---
+
+{% include archive.html %}
